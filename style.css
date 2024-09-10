@@ -1,3 +1,8 @@
 body {
     font-family: "Playfair Display", serif;
 }
+
+.content {
+    width: 60%;
+    margin: auto;
+}
