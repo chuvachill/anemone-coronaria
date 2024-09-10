@@ -6,3 +6,12 @@ body {
     width: 60%;
     margin: auto;
 }
+
+.toc {
+    padding: 32px;
+    position: fixed;
+}
+
+.toc ol {
+    padding: 0;
+}
