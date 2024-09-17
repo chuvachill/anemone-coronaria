@@ -9,14 +9,14 @@ body {
     gap: 16px;
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 950px) and (orientation: landscape) {
     .content {
-        width: 50%;
-        margin: auto;
+        width: 55%;
+        margin-left: 30%;
     }
 
     .toc {
-        padding-left: 64px;    
+        padding-left: 64px;
         position: fixed;
     }
     
@@ -24,8 +24,6 @@ body {
         padding: 0;
     }
 }
-
-
 
 table {
     border: 1px solid grey;
